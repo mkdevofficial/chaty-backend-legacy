@@ -1,0 +1,322 @@
+{
+  "packs": [
+    {
+      "id": "animals",
+      "name": {
+        "ar": "حيوانات",
+        "en": "Animals"
+      },
+      "icon": "🐾",
+      "stickers": [
+        {
+          "id": "cat",
+          "file": "animals/cat.svg",
+          "label": {
+            "ar": "قطة",
+            "en": "Cat"
+          }
+        },
+        {
+          "id": "dog",
+          "file": "animals/dog.svg",
+          "label": {
+            "ar": "كلب",
+            "en": "Dog"
+          }
+        },
+        {
+          "id": "fox",
+          "file": "animals/fox.svg",
+          "label": {
+            "ar": "ثعلب",
+            "en": "Fox"
+          }
+        },
+        {
+          "id": "bear",
+          "file": "animals/bear.svg",
+          "label": {
+            "ar": "دب",
+            "en": "Bear"
+          }
+        },
+        {
+          "id": "panda",
+          "file": "animals/panda.svg",
+          "label": {
+            "ar": "باندا",
+            "en": "Panda"
+          }
+        },
+        {
+          "id": "lion",
+          "file": "animals/lion.svg",
+          "label": {
+            "ar": "أسد",
+            "en": "Lion"
+          }
+        },
+        {
+          "id": "frog",
+          "file": "animals/frog.svg",
+          "label": {
+            "ar": "ضفدع",
+            "en": "Frog"
+          }
+        },
+        {
+          "id": "penguin",
+          "file": "animals/penguin.svg",
+          "label": {
+            "ar": "بطريق",
+            "en": "Penguin"
+          }
+        },
+        {
+          "id": "rabbit",
+          "file": "animals/rabbit.svg",
+          "label": {
+            "ar": "أرنب",
+            "en": "Rabbit"
+          }
+        },
+        {
+          "id": "monkey",
+          "file": "animals/monkey.svg",
+          "label": {
+            "ar": "قرد",
+            "en": "Monkey"
+          }
+        },
+        {
+          "id": "koala",
+          "file": "animals/koala.svg",
+          "label": {
+            "ar": "كوالا",
+            "en": "Koala"
+          }
+        },
+        {
+          "id": "tiger",
+          "file": "animals/tiger.svg",
+          "label": {
+            "ar": "نمر",
+            "en": "Tiger"
+          }
+        }
+      ]
+    },
+    {
+      "id": "faces",
+      "name": {
+        "ar": "وجوه",
+        "en": "Faces"
+      },
+      "icon": "😊",
+      "stickers": [
+        {
+          "id": "happy",
+          "file": "faces/happy.svg",
+          "label": {
+            "ar": "سعيد",
+            "en": "Happy"
+          }
+        },
+        {
+          "id": "love",
+          "file": "faces/love.svg",
+          "label": {
+            "ar": "حب",
+            "en": "Love"
+          }
+        },
+        {
+          "id": "laugh",
+          "file": "faces/laugh.svg",
+          "label": {
+            "ar": "ضحك",
+            "en": "Laugh"
+          }
+        },
+        {
+          "id": "cool",
+          "file": "faces/cool.svg",
+          "label": {
+            "ar": "رائع",
+            "en": "Cool"
+          }
+        },
+        {
+          "id": "wink",
+          "file": "faces/wink.svg",
+          "label": {
+            "ar": "غمزة",
+            "en": "Wink"
+          }
+        },
+        {
+          "id": "sad",
+          "file": "faces/sad.svg",
+          "label": {
+            "ar": "حزين",
+            "en": "Sad"
+          }
+        },
+        {
+          "id": "angry",
+          "file": "faces/angry.svg",
+          "label": {
+            "ar": "غاضب",
+            "en": "Angry"
+          }
+        },
+        {
+          "id": "sleepy",
+          "file": "faces/sleepy.svg",
+          "label": {
+            "ar": "نعسان",
+            "en": "Sleepy"
+          }
+        },
+        {
+          "id": "surprised",
+          "file": "faces/surprised.svg",
+          "label": {
+            "ar": "متفاجئ",
+            "en": "Surprised"
+          }
+        },
+        {
+          "id": "party",
+          "file": "faces/party.svg",
+          "label": {
+            "ar": "احتفال",
+            "en": "Party"
+          }
+        },
+        {
+          "id": "think",
+          "file": "faces/think.svg",
+          "label": {
+            "ar": "يفكر",
+            "en": "Thinking"
+          }
+        },
+        {
+          "id": "shy",
+          "file": "faces/shy.svg",
+          "label": {
+            "ar": "خجل",
+            "en": "Shy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "name": {
+        "ar": "قلوب",
+        "en": "Love"
+      },
+      "icon": "❤️",
+      "stickers": [
+        {
+          "id": "heart",
+          "file": "love/heart.svg",
+          "label": {
+            "ar": "قلب",
+            "en": "Heart"
+          }
+        },
+        {
+          "id": "hearts",
+          "file": "love/hearts.svg",
+          "label": {
+            "ar": "قلوب",
+            "en": "Hearts"
+          }
+        },
+        {
+          "id": "kiss",
+          "file": "love/kiss.svg",
+          "label": {
+            "ar": "قبلة",
+            "en": "Kiss"
+          }
+        },
+        {
+          "id": "rose",
+          "file": "love/rose.svg",
+          "label": {
+            "ar": "وردة",
+            "en": "Rose"
+          }
+        },
+        {
+          "id": "ring",
+          "file": "love/ring.svg",
+          "label": {
+            "ar": "خاتم",
+            "en": "Ring"
+          }
+        },
+        {
+          "id": "cupid",
+          "file": "love/cupid.svg",
+          "label": {
+            "ar": "كيوبيد",
+            "en": "Cupid"
+          }
+        },
+        {
+          "id": "sparkle",
+          "file": "love/sparkle.svg",
+          "label": {
+            "ar": "بريق",
+            "en": "Sparkle"
+          }
+        },
+        {
+          "id": "flame",
+          "file": "love/flame.svg",
+          "label": {
+            "ar": "لهب",
+            "en": "Flame"
+          }
+        },
+        {
+          "id": "gift",
+          "file": "love/gift.svg",
+          "label": {
+            "ar": "هدية",
+            "en": "Gift"
+          }
+        },
+        {
+          "id": "hug",
+          "file": "love/hug.svg",
+          "label": {
+            "ar": "حضن",
+            "en": "Hug"
+          }
+        },
+        {
+          "id": "star",
+          "file": "love/star.svg",
+          "label": {
+            "ar": "نجمة",
+            "en": "Star"
+          }
+        },
+        {
+          "id": "letter",
+          "file": "love/letter.svg",
+          "label": {
+            "ar": "رسالة",
+            "en": "Letter"
+          }
+        }
+      ]
+    }
+  ]
+}
